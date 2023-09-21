@@ -1,0 +1,16 @@
+- src/
+  - components/
+    - ProductList.js
+    - ProductDetail.js
+    - Cart.js
+    - Checkout.js
+  - pages/
+    - index.js (Página inicial)
+    - products/
+      - [slug].js (Página de detalhes do produto dinâmico)
+    - cart.js (Página de carrinho)
+    - checkout.js (Página de checkout)
+  - styles/
+    - global.css
+  - templates/
+    - product.js (Template para páginas de detalhes do produto)
